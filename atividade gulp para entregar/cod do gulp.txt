@@ -1,0 +1,52 @@
+
+configurando instalação do gulp 
+no terminal 
+npm install --global gulp-cli
+
+
+npm install sass gulp-sass --save-dev 
+
+ npm --version 
+
+
+
+npm install sass gulp-sass --save-dev 
+npm init 
+
+npm install  --save-dev gulp 
+npm install --save-dev gulp 
+
+criar um arquivo gulpfile.js
+
+
+Vai aparecer o pacote json 
+para rodar npm run gulp e clcar no enter
+
+
+
+criar uma pasta node-modules
+
+iniciar repositório do git o comando  git init ,vai ficar tudo em verde 
+criar um arquivo .gitignoremnode
+****
+Atividade 
+Neste exercício você deve:
+1) Criar um arquivo Gulpfile que deverá executar as tarefas:
+
+compilação do SASS;
+compressão de imagens disponibilizadas no Material de apoio;
+compressão de código JavaScript.
+3) Armazenar o projeto completo, incluindo o arquivo Gulpfile, neste branch.
+4) Enviar o link do repositório através da plataforma.
+
+
+Kupper151#@@..
+
+
+
+Boa tarde.
+
+Meu vale transporte bilhete Top não esta carregando.
+Antes ele carregava automaticamente e agora não carrega nem nas maquinhhas e nem automitico.
+Ao encostar nas maquiniinhas não aparece nenhuma recarga disponivel .
+Entrei em contato com o Top eles pediram para verificar com RH da empresa.
